@@ -23,19 +23,6 @@
         </dependency>
     </dependencies>
 
-    <plugin>
-        <groupId>org.codehaus.gmavenplus</groupId>
-        <artifactId>gmavenplus-plugin</artifactId>
-        <version>1.5</version>
-        <executions>
-            <execution>
-                <goals>
-                    <goal>compile</goal>
-                    <goal>testCompile</goal>
-                </goals>
-            </execution>
-        </executions>
-    </plugin>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
